@@ -1,0 +1,6 @@
+[package]
+name = "lull"
+version = "0.1.0"
+authors = ["connorwalsh <c@polygon.pizza>"]
+
+[dependencies]
